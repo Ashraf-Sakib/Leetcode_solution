@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        if (x < 0) {
+            return false; 
+        }
+
+        long long int revNum = 0, tmp = x;
+
+        while (x != 0) {
+            int remainder = x % 10;
+            revNum = revNum * 10 + remainder;
+            x = x / 10;
+        }
+
+        return tmp == revNum;
+    }
+};
