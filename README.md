@@ -30,4 +30,5 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0401-binary-watch/) | Easy |
+| [0461-hamming-distance](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
