@@ -36,11 +36,13 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0693-binary-number-with-alternating-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0868-binary-gap](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0868-binary-gap/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,8 +51,14 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 <!---LeetCode Topics End-->
