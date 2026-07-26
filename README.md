@@ -39,6 +39,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
