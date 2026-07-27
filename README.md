@@ -104,5 +104,6 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
