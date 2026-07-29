@@ -92,6 +92,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0168-excel-sheet-column-title](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+| [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Enumeration
@@ -114,4 +115,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
