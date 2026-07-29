@@ -104,6 +104,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0183-customers-who-never-order/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
