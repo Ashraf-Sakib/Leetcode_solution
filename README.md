@@ -25,12 +25,14 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0401-binary-watch/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0476-number-complement/) | Easy |
@@ -44,6 +46,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
