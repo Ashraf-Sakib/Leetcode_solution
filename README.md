@@ -55,6 +55,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -90,6 +91,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
