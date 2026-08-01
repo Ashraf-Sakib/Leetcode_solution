@@ -53,6 +53,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0078-subsets](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -88,10 +89,12 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -130,4 +133,12 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
