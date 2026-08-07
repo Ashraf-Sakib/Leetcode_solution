@@ -30,6 +30,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0401-binary-watch](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0401-binary-watch/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Hash Table
@@ -158,6 +160,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
