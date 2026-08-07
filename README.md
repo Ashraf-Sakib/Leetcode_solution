@@ -90,6 +90,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -176,6 +177,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0682-baseball-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -199,4 +201,5 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
