@@ -151,6 +151,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
