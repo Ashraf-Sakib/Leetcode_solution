@@ -144,6 +144,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0013-roman-to-integer](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -226,4 +227,24 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
