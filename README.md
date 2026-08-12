@@ -84,6 +84,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -98,6 +99,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -187,6 +189,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
