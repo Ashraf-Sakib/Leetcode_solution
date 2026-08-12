@@ -70,6 +70,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
@@ -81,6 +82,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0088-merge-sorted-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
@@ -252,4 +255,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
