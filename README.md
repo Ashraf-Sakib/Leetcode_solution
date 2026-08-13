@@ -69,6 +69,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -84,6 +85,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -195,6 +198,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -251,6 +255,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
