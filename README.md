@@ -73,6 +73,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -87,6 +88,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -236,6 +239,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
