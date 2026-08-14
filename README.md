@@ -118,6 +118,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Hash Table
@@ -166,6 +167,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1323-maximum-69-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
+| [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Enumeration
@@ -216,6 +218,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
+| [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
