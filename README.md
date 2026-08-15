@@ -80,6 +80,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
