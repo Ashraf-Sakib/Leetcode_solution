@@ -77,6 +77,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -91,6 +92,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting
@@ -222,6 +224,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -257,6 +260,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
