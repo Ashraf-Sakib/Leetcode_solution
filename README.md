@@ -114,6 +114,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0168-excel-sheet-column-title](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
+| [0925-long-pressed-name](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -261,6 +262,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
+| [0925-long-pressed-name](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
