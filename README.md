@@ -196,6 +196,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0197-rising-temperature](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1693-daily-leads-and-partners/) | Easy |
