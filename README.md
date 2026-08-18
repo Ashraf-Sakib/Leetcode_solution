@@ -66,6 +66,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0682-baseball-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -161,6 +162,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -172,6 +174,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1323-maximum-69-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
@@ -287,10 +290,12 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -308,4 +313,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
