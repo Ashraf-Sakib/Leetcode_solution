@@ -60,6 +60,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0152-maximum-product-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -90,6 +91,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -328,4 +330,12 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 <!---LeetCode Topics End-->
