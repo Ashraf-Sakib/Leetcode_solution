@@ -210,6 +210,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1393-capital-gainloss](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1393-capital-gainloss/) | Medium |
 | [1693-daily-leads-and-partners](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1693-daily-leads-and-partners/) | Easy |
