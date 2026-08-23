@@ -62,6 +62,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -348,6 +349,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -357,4 +359,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
 <!---LeetCode Topics End-->
