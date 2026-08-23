@@ -71,6 +71,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
+| [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -363,4 +364,9 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
