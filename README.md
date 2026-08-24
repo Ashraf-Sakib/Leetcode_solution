@@ -215,6 +215,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0596-classes-with-at-least-5-students](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1393-capital-gainloss](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1393-capital-gainloss/) | Medium |
