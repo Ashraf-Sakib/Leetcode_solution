@@ -71,6 +71,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -141,6 +142,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -355,6 +357,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,9 +370,19 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
+## Planar Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 <!---LeetCode Topics End-->
