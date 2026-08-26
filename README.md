@@ -68,6 +68,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0682-baseball-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
@@ -358,6 +359,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 ## Graph Theory
@@ -373,18 +375,21 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 ## Planar Graph
 | Problem Name | Difficulty |
