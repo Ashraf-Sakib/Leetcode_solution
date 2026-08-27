@@ -223,6 +223,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0620-not-boring-movies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1075-project-employees-i/) | Easy |
 | [1393-capital-gainloss](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1393-capital-gainloss/) | Medium |
 | [1693-daily-leads-and-partners](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
