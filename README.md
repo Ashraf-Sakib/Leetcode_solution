@@ -231,6 +231,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1084-sales-analysis-iii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1148-article-views-i/) | Easy |
+| [1179-reformat-department-table](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1179-reformat-department-table/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1484-group-sold-products-by-the-date/) | Easy |
