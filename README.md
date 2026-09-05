@@ -60,6 +60,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0130-surrounded-regions](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -98,6 +99,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0561-array-partition/) | Easy |
@@ -146,6 +148,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
