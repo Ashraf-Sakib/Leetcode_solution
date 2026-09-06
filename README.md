@@ -90,6 +90,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -141,6 +142,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2000-reverse-prefix-of-word](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -282,6 +284,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
