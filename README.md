@@ -80,6 +80,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -185,6 +186,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Math
@@ -401,6 +403,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0994-rotting-oranges/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
