@@ -254,6 +254,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1323-maximum-69-number/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -377,6 +379,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +389,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0695-max-area-of-island](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,4 +427,12 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
