@@ -105,6 +105,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0561-array-partition/) | Easy |
+| [0761-special-binary-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0761-special-binary-string/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -130,6 +131,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0038-count-and-say](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0038-count-and-say/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0761-special-binary-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0761-special-binary-string/) | Hard |
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0942-di-string-match/) | Easy |
@@ -254,6 +256,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
+| [0761-special-binary-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0761-special-binary-string/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
