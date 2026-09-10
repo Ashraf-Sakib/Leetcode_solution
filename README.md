@@ -189,6 +189,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Math
@@ -438,4 +439,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 <!---LeetCode Topics End-->
