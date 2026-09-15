@@ -253,6 +253,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1795-rearrange-products-table/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Divide and Conquer
