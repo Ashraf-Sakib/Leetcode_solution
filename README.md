@@ -60,6 +60,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -103,6 +104,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
@@ -120,6 +122,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -155,6 +158,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -262,6 +266,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
 | [0761-special-binary-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0761-special-binary-string/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -455,4 +460,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
