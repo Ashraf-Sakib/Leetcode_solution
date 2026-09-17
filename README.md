@@ -63,6 +63,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
@@ -160,6 +161,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0013-roman-to-integer](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0959-regions-cut-by-slashes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -464,4 +466,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
