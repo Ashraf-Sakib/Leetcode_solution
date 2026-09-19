@@ -102,6 +102,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2594-minimum-time-to-repair-cars](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0682-baseball-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
