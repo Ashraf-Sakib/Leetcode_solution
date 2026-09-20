@@ -72,6 +72,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0419-battleships-in-a-board](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0506-relative-ranks/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0561-array-partition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0682-baseball-game/) | Easy |
@@ -111,6 +112,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0217-contains-duplicate](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0455-assign-cookies](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0561-array-partition/) | Easy |
 | [0761-special-binary-string](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0761-special-binary-string/) | Hard |
 | [0826-most-profit-assigning-work](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -474,4 +476,8 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
