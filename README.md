@@ -104,6 +104,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3731-find-missing-elements](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
