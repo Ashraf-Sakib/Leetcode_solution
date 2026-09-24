@@ -215,6 +215,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 | [0168-excel-sheet-column-title](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0292-nim-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0326-power-of-three/) | Easy |
 | [0372-super-pow](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0372-super-pow/) | Medium |
 | [0877-stone-game](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
@@ -283,6 +284,7 @@ Hi, I’m Ashraful!<br>I’m an undergraduate Computer Science student at Khulna
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/0326-power-of-three/) | Easy |
 | [1922-count-good-numbers](https://github.com/Ashraf-Sakib/Leetcode_solution/tree/main/1922-count-good-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
